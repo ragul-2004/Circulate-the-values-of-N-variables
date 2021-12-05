@@ -18,7 +18,6 @@ print the rotated list
 ### Step 6: 
 end the program
 ## Program:
-~~~
 #Program to circulate N values.
 #Developed by:Ragul A C
 #RegisterNumber:21500141
@@ -27,8 +26,8 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-~~~
 
-## Output:![output](ragul.png)
+## Output:
+![Output 1](SSE1.png)
 
 ## Result:
